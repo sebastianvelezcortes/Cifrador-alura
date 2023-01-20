@@ -44,5 +44,5 @@ Las "llaves" de encriptación que se utilizaron son las siguiente:
 
 ---
 
-[**Ir a la página** ✌](https://mariasmoun.github.io/Encriptador-de-texto/)
+
 ---
