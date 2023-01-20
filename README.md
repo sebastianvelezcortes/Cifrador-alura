@@ -39,7 +39,7 @@ Las "llaves" de encriptación que se utilizaron son las siguiente:
 
 **Visualiación:**  
   
-![Encriptador](https://user-images.githubusercontent.com/110046283/206954224-6e8a1ce4-32eb-4cf1-bee0-696572c32584.png)
+![Encriptador](https://github.com/sebastianvelezcortes/Cifrador-alura/blob/master/index.html)
 
 
 ---
