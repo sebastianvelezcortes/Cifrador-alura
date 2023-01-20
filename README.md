@@ -37,9 +37,6 @@ Las "llaves" de encriptación que se utilizaron son las siguiente:
 
 ---
 
-**Visualiación:**  
-  
-![Encriptador](https://github.com/sebastianvelezcortes/Cifrador-alura/blob/master/index.html)
 
 
 ---
