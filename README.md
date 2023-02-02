@@ -3,7 +3,6 @@ Programa para crear encriptador web
 HTML CSS JV
 # Encriptador de Texto | Challenge ONE - Oracle Next Education
 
-Link del proyecto al final ⬇
 
 ---
 
