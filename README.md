@@ -40,7 +40,7 @@ Las "llaves" de encriptación que se utilizaron son las siguiente:
 
 ---
 
-
+[**Ir a la página** ✌](https://sebastianvelezcortes.github.io/Cifrador-alura/)
 ---
 
 
